@@ -4,6 +4,6 @@
     "config:recommended"
   ],
   "labels": ["dependencies", "renovate"],
-  "reviewers": ["team-member1", "team-member2"]
+  "reviewers": ["team-member1", "team-member2"],
   "dependencyDashboard": true
 }
